@@ -1,0 +1,28 @@
+{
+  "name": "tdncoin",
+  "version": "1.0.0",
+  "description": "Demo Crypto Coin",
+  "main": "app.js",
+  "scripts": {
+    "start": "ts-node app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushar21/tdncoin.git"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "tushar21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushar21/tdncoin/issues"
+  },
+  "homepage": "https://github.com/tushar21/tdncoin#readme",
+  "dependencies": {
+    "@types/crypto-js": "^4.0.2",
+    "crypto-js": "^4.1.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  } 
+}
